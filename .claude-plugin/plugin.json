@@ -7,5 +7,6 @@
     "url": "https://github.com/MaydinKanadasi"
   },
   "types": "./types/index.d.ts",
-  "homepage": "https://github.com/MaydinKanadasi/usage-band"
+  "homepage": "https://github.com/MaydinKanadasi/usage-band",
+  "license": "MIT"
 }

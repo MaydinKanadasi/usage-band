@@ -47,3 +47,7 @@ claude plugin test .
 - `hooks/pills.ts`: biçimlendirme ve hapların SVG metni
 - `types/index.d.ts`: `$.state` sözleşmesi
 - `tests/band.test.ts`: masaüstü, terminal ve gizle/anket durumlarının testleri
+
+## Lisans
+
+[MIT](LICENSE)
