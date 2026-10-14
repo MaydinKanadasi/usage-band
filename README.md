@@ -2,6 +2,13 @@
 
 Claude Code için bir mod: mesaj kutusunun hemen üstüne küçük bir kullanım şeridi ekler.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/serit-dark.png">
+  <img alt="Kullanım şeridi: 5h, 7d ve maliyet hapları" src="docs/serit-light.png" width="478">
+</picture>
+
+<sub>Örnek verilerle. Üstte normal kullanım; altta %70'i geçen sarı, %90'ı geçen kırmızı çubuk.</sub>
+
 | Hap | Gösterdiği |
 | --- | --- |
 | **5h** (turkuaz) | 5 saatlik limitin kullanılan yüzdesi, ilerleme çubuğu ve sıfırlanmaya kalan süre (`2h 40m`) |
