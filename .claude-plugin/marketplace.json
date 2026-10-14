@@ -1,0 +1,14 @@
+{
+  "name": "usage-band",
+  "description": "Claude Code için kullanım şeridi modu",
+  "owner": {
+    "name": "MaydinKanadasi"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./",
+      "description": "Mesaj kutusunun üstünde 5h/7d limit ve oturum maliyeti hapları; /kullanim komutu"
+    }
+  ]
+}

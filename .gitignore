@@ -1,0 +1,4 @@
+# Claude Code motorunun mod yüklenirken yazdığı dosyalar
+.claude-plugin/types/
+tsconfig.json
+.DS_Store

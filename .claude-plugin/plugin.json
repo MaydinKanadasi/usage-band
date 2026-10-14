@@ -1,0 +1,11 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Mesaj kutusunun üstünde 5h/7d limit ve oturum maliyeti hapları; /kullanim komutu",
+  "author": {
+    "name": "MaydinKanadasi",
+    "url": "https://github.com/MaydinKanadasi"
+  },
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/MaydinKanadasi/usage-band"
+}
